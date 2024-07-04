@@ -38,3 +38,8 @@ This project uses the OpenCV and MediaPipe libraries to detect and count fingers
 - Upload the Arduino sketch provided to the Arduino board.
 - Run the Python script and use your *left* hand for interacting with the tool.
 
+## ⭐ Final Thoughts
+
+- The project was developed in one week and contributed to various areas of learning, such as embedded systems, circuit assembly, use of new libraries, integration of Python and C++ applications, among others.
+  
+- Contributions are welcome! For suggestions and modifications, please open an issue or submit a pull request.
